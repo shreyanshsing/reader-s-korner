@@ -1,0 +1,106 @@
+[{
+	"id":1,
+	"title":"Rose",
+	"src":"./flower/rose.jpg",
+	"info":"A rose is a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears. ... Roses have acquired cultural significance in many societies.",
+	"details":{
+		"Family":"Rosaceae",
+		"Genus": "Rosa L.",
+		"Kingdom": "Plantae"
+	}
+},
+{
+	"id":2,
+	"title":"Money Plant",
+	"src":"./flower/moneyplant.jpeg",
+	"info":"It is called a money plant because of its round, plumb, flat leaves that might with a bit of imagination look like a coin. Also, there is a popular story about the origin of the money plant related to a poor man from Taiwan",
+	"details":{
+		"Family":"Arums",
+		"Genus":"Epipremnum",
+		"Kingdom":"Plantae"
+	}
+},
+{
+	"id":3,
+	"title":"Tulsi",
+	"src":"./flower/tulsi.jpeg",
+	"info":"Closely related to culinary basil, tulsi (Ocimum sanctum, a.k.a. holy basil) is a medicinal herb used in Ayurveda that is native to India and Southeast Asia. Tulsi is considered an adaptogenic herb, meaning it can help adapt the body to stress and boost energy",
+	"details":{
+		"Family":"Mints",
+		"Genus":"Basil",
+		"Kingdom":"Plantae"
+	}
+},
+{
+	"id":4,
+	"title":"Marie Gold",
+	"src":"./flower/mariegold.jpg",
+	"info":"The common name in English, marigold, is derived from Mary's gold, a name first applied to a similar plant native to Europe, Calendula officinalis. ... The so-called signet marigolds are hybrids derived mostly from Tagetes tenuifolia.",
+	"details":{
+		"Family":"Asteraceae",
+		"Genus":"Tagetes",
+		"Kingdom":"Plantae"
+	}
+},
+{
+	"id":5,
+	"title":"Snake Plant",
+	"src":"./flower/snakeplant.jpeg",
+	"info":"Dracaena trifasciata is commonly called 'mother-in-law's tongue', 'Saint George's sword' or 'snake plant', because of the shape and sharp margins of its leaves. It is also known as the 'viper's bowstring hemp', because it is one of the sources for plant fibers used to make bowstrings.",
+	"details":{
+		"Family":"Asparagus",
+		"Genus":"Dracaena trifasciata",
+		"Kingdom":"Plantae"
+	}
+},
+{
+	"id":6,
+	"title":"Areica Plam",
+	"src":"./flower/plam.jpeg",
+	"info":"It is hard to believe the areca palm (Dypsis lutescens) was once an endangered species. Drive down almost any street in a subtropical or warm climate, and you are likely to see dozens of these tall, attractive and clumping palms that look a lot like bamboo.",
+	"details":{
+		"Family":"Arecaceae",
+		"Genus":"Dracaena trifasciata",
+		"Kingdom":"Plantae"
+	}
+},
+{
+	"id":7,
+	"title":"Petunia",
+	"src":"./flower/pentonia.jpeg",
+	"info":"Petunia species are mostly annual herbs. The leaves are sessile (e.g., lacking a petiole, or leaf stem) and are usually oval-shaped with smooth margins; some feature fine sticky hairs. The flowers are funnel-shaped, consisting of five fused or partially fused petals and five green sepals.",
+	"details":{
+		"Family":"Nightshade",
+		"Genus":"Petunia parviflora",
+		"Kingdom":"Plantae"
+	}
+},
+{
+	"id":8,
+	"title":"Salvia",
+	"src":"./flower/salvia.jpeg",
+	"info":"They grow about 1.5′ tall. Flowers feature shades of red, purple, pink and white. Firecracker: Dwarf and compact, this variety blooms continuously and showcases blue, orange, white, pink and bicolor. ... Red Arrow: These spike-like brilliant red flowers bloom pretty early.",
+    "details":{
+		"Family":"Mints",
+		"Genus":"Salvia",
+		"Kingdom":"Plantae"
+	}
+},
+{
+	"id":9,
+	"title":"Gazania",
+	"src":"./flower/gazania.jpg",
+	"info":"Gazania is a genus of flowering plants in the family Asteraceae, native to Southern Africa. They produce large, daisy-like composite flowerheads in brilliant shades of yellow and orange, over a long period in summer. They are often planted as drought-tolerant groundcover",
+	 "details":{
+		"Family":"Asteraceae",
+		"Genus":"Gazania",
+		"Kingdom":"Plantae"
+	}
+},
+{
+	"id":10,
+	"title":"Dantes",
+	"src":"./flower/dantes.jpg",
+	"info":"N/A",
+	"details":"N/A"
+}]
